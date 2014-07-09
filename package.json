@@ -11,7 +11,7 @@
   "keywords": ["authenticate", "ldap", "authentication", "auth"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/trentm/node-ldapauth.git"
+    "url": "git://github.com/marek-obuchowicz/node-ldapauth.git"
   },
   "engines": ["node >=0.8.0"],
   "dependencies": {
